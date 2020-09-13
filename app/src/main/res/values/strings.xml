@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mohamad_Mahendra_Github_Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_imageDescription">Profile Picture</string>
+    <string name="text_dataNotFound">Data is not found</string>
+    <string name="text_failedResponse">Sorry, there is a problem in the apps. Please try again</string>
+    <string name="text_hintSearch">Enter github user</string>
+</resources>

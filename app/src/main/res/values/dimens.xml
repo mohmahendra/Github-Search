@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_uname">16sp</dimen>
+    <dimen name="text_errorDescription">24sp</dimen>
+</resources>
